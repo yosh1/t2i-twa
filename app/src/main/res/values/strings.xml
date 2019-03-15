@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">t2i</string>
+    <string name="asset_statements">
+        [{
+            \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+            \"target\": {
+                \"namespace\": \"web\",
+                \"site\": \"https://www.yoshi1125hisa.com/text-to-image\"}
+        }]
+    </string>
+</resources>
